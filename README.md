@@ -1,4 +1,4 @@
-### [https://www.coinmarketbrasil.com.br/wallet/cmbt](https://www.coinmarketbrasil.com.br)
+### [CMBTWallet](https://www.coinmarketbrasil.com.br/wallet/cmbt)
 
 
 ### `mercury` is the development branch. gh-pages contains only the smaller dist folder only and is served to Coinmarketbrasil.com.br/wallet/cmbt
